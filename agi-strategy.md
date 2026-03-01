@@ -297,3 +297,130 @@ Topics
 - Will there be an incentive to keep normal humans around as AGI leader?
   - Compare countries where GDP is based on cognitive work rather than natural resources. In the latter, there in no incentive to educate or feed the population. AI would be an extreme version of the latter. 
 - TODO: How can we communicate between politics and science better, understanding incentives of politicians?
+
+
+## [Catastrophic AI Scenarios](https://futureoflife.org/resource/catastrophic-ai-scenarios/)
+
+Bad actors
+- Bio-weapons
+  - AI tools developed for drug discovery can be trivially repurposed to discover potential new biochemical weapons.
+  - AI models can “offer guidance that could assist in the planning and execution of a biological attack.”
+  - “Open-sourcing” by releasing model weights can amplify the problem.
+- Cyberattacks
+  - A proof of concept has shown how ChatGPT can be used to create mutating malware, evading existing anti-virus protections.
+
+Systemic risks
+- As AI becomes more integrated into complex systems, it will create risks
+
+Rogue AI
+
+
+**Misuse** vs. **Misalignment** - same outcome as long as AI is a tool
+If you prevent misuse, you prevent a lot of misalignment atm
+Open source: bad for offence, good for defence
+
+
+## [AI Could Defeat All Of Us Combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/)
+
+- Even human level AI is a threat - they could out-number and out-resource us.
+- Training >>> Inference -> using compute for inference allows running many copies of a model
+- can make money quickly -> more hardware + research
+- how many humans are already "working for AIs"?
+- what about shutdown? not if in control over weapons / allies
+- Via threats, AIs might be able to get key humans to cooperate with them
+- The company that first develops transformative AI quickly starts running large numbers of copies (hundreds of millions or more), which are used to (a) do research on how to improve computational efficiency and run more copies still; (b) develop valuable intellectual property (trading strategies, new technologies) and make money. 
+- AIs need a way of getting one or more "AI headquarters": property they control where they can safely operate servers and factories, do research, make plans and construct robots/drones/other military equipment. 
+- What if humans moved more slowly, intentionally restricting human-level AI to a tiny portion of the available computing resources? Could a small number of AIs pose a risk to humanity? 
+  - Anyone who can buy or rent a large amount of computing power can create a large number of AIs, which can produce a large amount of money and research, leading to still more AIs. 
+
+
+## [AI Is Reviving Fears Around Bioterrorism. What’s the Real Risk?](https://www.cigionline.org/articles/ai-is-reviving-fears-around-bioterrorism-whats-the-real-risk/)
+
+- Chatbots have already proven capable of advising users on how to plan attacks using lethal new forms of bacteria, viruses and toxins. 
+- Great-power competition, meanwhile, is distracting from threats posed by terrorist groups and malicious non-state actors.
+- The International AI Safety Report, produced for the 2025 Paris AI Action Summit, shows LLMs are getting far better at tasks related to biological and chemical weapons, accurately responding to queries about the acquisition and formulation of deadly agents. The International AI Safety Report, produced for the 2025 Paris AI Action Summit, shows LLMs are getting far better at tasks related to biological and chemical weapons, accurately responding to queries about the acquisition and formulation of deadly agents. 
+- Nonstate actors — including lone wolves, terrorists, and apocalyptic groups — have an unnerving track record of attempting biological attacks, but with limited success due to the intrinsic complexity of building and wielding such delicate capabilities.
+- The real existential threat ahead is not from China, it comes from the weaponization of advanced AI by bad actors and rogue groups who seek to create broad harms, gain wealth, or destabilize society.
+- While lower-cost, open-source models could usher in a more even playing field when it comes to adopting AI for productivity and innovation, they have their own glaring flaws and must too be regulated accordingly.
+- Republican law makers have also now inserted a stealth clause into their tax bill winding through Congress that would ban states and localities from regulating AI for the next decade.
+- if a tech-enabled bioterrorist attack does occur, AI will also be vital in expediting a cure
+
+## [AI-Enabled Coups: How a Small Group Could Use AI to Seize Power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power)
+
+AI-enabled coup: three significant risk factors:
+- An AI workforce could be made singularly loyal to institutional leaders.
+  - Today, even dictators rely on others to maintain their power. Military force requires personnel, government action relies on civil servants, and economic output depends on a broad workforce. This naturally distributes power throughout society.
+  - Advanced AI removes this constraint, making it technologically feasible to replace human workers with AI systems that are singularly loyal to just one person
+  - loyal AI systems deployed in government could dramatically increase state power, facilitating surveillance, censorship, propaganda and the targeting of political opponents
+  - If there were a coup, civil disobedience and strikes might be rendered ineffective through replacing humans with AI workers. Even loyal coup supporters could be replaced by AI systems—granting the new ruler(s) an unprecedentedly stable and unaccountable grip on power.
+
+- AI could have hard-to-detect secret loyalties.
+  - AI could be built to be secretly loyal to one actor.
+  - While secret loyalties might be introduced by government officials or foreign adversaries, leaders within AI projects present the greatest risk, especially where they have replaced their employees with singularly loyal AI systems.
+  - ![agi-strategy-2026-02-28-12-35-41.png](.images/agi-strategy-2026-02-28-12-35-41.png)
+  - Secretly loyal AI systems are not merely speculation. There are already proof-of-concept demonstrations of [AI 'sleeper agents'](https://arxiv.org/pdf/2401.05566) that hide their true goals until they can act on them. 
+    - We find that such backdoor behavior can be made persistent, so that it is not removed by standard safety training techniques, including supervised fine-tuning, reinforcement learning, and adversarial training (eliciting unsafe behavior and then training to remove it)Concrete paths to an AI-enabled coup
+
+- A few people could gain exclusive access to coup-enabling AI capabilities.
+  - Advanced AI will have powerful coup-enabling capabilities – including weapons design, strategic planning, persuasion, and cyber offence.
+  - Exclusive access to advanced AI could also supercharge traditional coups and backsliding, by providing unprecedented cognitive resources for political strategy, propaganda, and identifying legal vulnerabilities in constitutional safeguards.
+  - A head of state could rely on AI systems’ strategic advice to deploy singularly loyal AI in the military and assess which AI systems will help them stage a coup. 
+  - A CEO could use AI R&D and cyber capabilities to instill secret loyalties that others cannot detect.
+
+Mitigations
+- Establish rules that prevent AI systems from assisting with coups, including in model specs (documents that describe intended model behaviour) and terms of service for government contracts. *Didn't we just discuss this is useless?*
+- Audit models for secret loyalties including by scrutinising AI models, their training data, and the code used to train them.
+- Increase oversight over frontier AI projects, including by building technical capacity within both the executive and the legislature.
+- Coup-proof any plans for a single centralised AI project, and avoid centralisation altogether unless it’s necessary to reduce other risks.
+
+What might happen after such a coup:
+- Very rapid AI development might grant one country extreme dominance over all other powers.
+- Coup leaders could potentially stay in power indefinitely, by deploying AI systems to preserve and pursue their goals far into the future.
+
+Concrete paths to an AI-enabled coup
+- We distinguish between two main forms of AI-enabled coups: 
+  - Coups using military AI. The deployment of fully autonomous military AI systems introduces a wholly new route to seizing power: that an actor could gain control of significant military force without needing to rely on human soldiers. This has not been technologically feasible before, and could greatly increase the risk of coups. We discuss four ways someone could use military AI to stage a coup: ![agi-strategy-2026-03-01-13-23-42.png](.images/agi-strategy-2026-03-01-13-23-42.png)
+  - Conventional forms of coups and backsliding. Even without the deployment of military AI, advanced AI could enable conventional forms of coups and backsliding, both by exacerbating background risks and by directly assisting attempts.
+- Mature democracies rarely experience coups from the military, or even coup attempts — because soldiers remain loyal to democratic institutions, and expect others to do the same.
+- While militaries will naturally be cautious about automation, military competition is likely to drive deployment of military AI systems.
+- It’s not necessary for the entire military to be automated for military AI to pose significant coup risk. Historically, coups have succeeded with just a few battalions, where they were able to prevent others from intervening
+
+### Coups using military AI
+
+Flawed command structure in military AI systems. 
+- institutional leaders may leverage their existing authority to push for systems to be loyal to them
+- Today’s military AI systems are exclusively designed to follow instructions, with human operators responsible for ensuring legal compliance. To reduce the risk of coups, we would want autonomous AI systems to instead make their own judgments and sometimes refuse orders even when a military leader insists they’re legal.
+- crises might lead to rushed deployments with insufficient safeguards
+
+Secret loyalties in military AI systems.
+- secret loyalties may be very hard to detect
+- the crucial time to prevent secret loyalties may be long before the military is involved in procurement
+Between 1950 and 2010, there were over 200 successful coups, where military or other elites used force or the threat of force to seize power
+Hacking military AI systems.
+- Today's militaries are already vulnerable to cyberattacks despite significant security measures.rapid AI progress could enable someone to gain exclusive access to AI systems with powerful military R&D capabilities
+- once fully autonomous military systems are widely deployed, simultaneous hacking of many systems could grant an attacker enough military force to stage a coup
+- the dynamics concentrating access to AI capabilities could lead to a small number of people having exclusive access to far greater cyber capabilities than everyone else
+- majority of such systems may share common vulnerabilities 
+
+Rapid, secret build-out of military force
+- rapid AI progress could enable someone to gain exclusive access to AI systems with powerful military R&D capabilities
+
+### Conventional coups and backsliding
+- Between 1950 and 2010, there were over 200 successful coups, where military or other elites used force or the threat of force to seize power
+- Coups have become less common in recent decades, but there has been increasing concern about backsliding, where a head of state works within the political system to remove checks and balances on their power, in extreme cases leading to an executive coup.
+- AI may cause significant societal disruption through job losses, intensified geopolitical competition, new highly polarising issues (like whether to grant rights to AI systems), and novel catastrophic risks from AI misuse and loss of control. Upheaval of this kind has been linked to increases in the risk of both coups and backsliding.
+- Resource-rich countries often suffer a "resource curse" where governments which derive revenue directly from resources rather than citizen taxation become less accountable. if governments can generate massive revenue from taxing AI projects rather than citizens, heads of state may lose their economic incentive to ensure citizens prosper
+- Employees can exercise discretion in how they execute orders or even refuse and whistleblow on orders they perceive as illegitimate. Not with AI
+- A leader with exclusive access to a huge and highly skilled AI workforce could use AI to win elections with strong majorities, spread targeted disinformation, form valuable alliances, strategically dismantle checks and balances while maintaining plausible deniability, and exploit legal loopholes to concentrate power.
+- Coups often succeed by creating the impression of inevitable success, discouraging opposition. If military officials become reliant on a single AI system for strategic advice, then a person controlling that system (either through secret loyalties or through hacking) could instruct all copies to simultaneously advise military officials to support a coup
+
+## [The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
+Good engineering involves thinking about how things can be made to work; the security mindset involves thinking about how things can be made to fail. It involves thinking like an attacker, an adversary or a criminal.
+
+If I wanted to evade this particular security device, how would I do it? Could I follow the letter of this law but get around the spirit? If the person who wrote this advertisement, essay, article or television documentary were unscrupulous, what could he have done? And then, how can I protect myself from these attacks?
+
+
+Model categories:
+- Sycophant: a person who acts obsequiously towards someone important in order to gain advantage.
+- Misaligned: high optimization pressure leading to model cheating towards its goals
+- Adverserial: model goals vs human goals leads to active deceptions
