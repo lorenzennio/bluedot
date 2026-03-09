@@ -377,7 +377,8 @@ What might happen after such a coup:
 - Very rapid AI development might grant one country extreme dominance over all other powers.
 - Coup leaders could potentially stay in power indefinitely, by deploying AI systems to preserve and pursue their goals far into the future.
 
-Concrete paths to an AI-enabled coup
+### Concrete paths to an AI-enabled coup
+
 - We distinguish between two main forms of AI-enabled coups: 
   - Coups using military AI. The deployment of fully autonomous military AI systems introduces a wholly new route to seizing power: that an actor could gain control of significant military force without needing to rely on human soldiers. This has not been technologically feasible before, and could greatly increase the risk of coups. We discuss four ways someone could use military AI to stage a coup: ![agi-strategy-2026-03-01-13-23-42.png](.images/agi-strategy-2026-03-01-13-23-42.png)
   - Conventional forms of coups and backsliding. Even without the deployment of military AI, advanced AI could enable conventional forms of coups and backsliding, both by exacerbating background risks and by directly assisting attempts.
@@ -385,7 +386,7 @@ Concrete paths to an AI-enabled coup
 - While militaries will naturally be cautious about automation, military competition is likely to drive deployment of military AI systems.
 - It’s not necessary for the entire military to be automated for military AI to pose significant coup risk. Historically, coups have succeeded with just a few battalions, where they were able to prevent others from intervening
 
-### Coups using military AI
+**Coups using military AI**
 
 Flawed command structure in military AI systems. 
 - institutional leaders may leverage their existing authority to push for systems to be loyal to them
@@ -405,11 +406,12 @@ Hacking military AI systems.
 Rapid, secret build-out of military force
 - rapid AI progress could enable someone to gain exclusive access to AI systems with powerful military R&D capabilities
 
-### Conventional coups and backsliding
+**Conventional coups and backsliding**
+
 - Between 1950 and 2010, there were over 200 successful coups, where military or other elites used force or the threat of force to seize power
 - Coups have become less common in recent decades, but there has been increasing concern about backsliding, where a head of state works within the political system to remove checks and balances on their power, in extreme cases leading to an executive coup.
 - AI may cause significant societal disruption through job losses, intensified geopolitical competition, new highly polarising issues (like whether to grant rights to AI systems), and novel catastrophic risks from AI misuse and loss of control. Upheaval of this kind has been linked to increases in the risk of both coups and backsliding.
-- Resource-rich countries often suffer a "resource curse" where governments which derive revenue directly from resources rather than citizen taxation become less accountable. if governments can generate massive revenue from taxing AI projects rather than citizens, heads of state may lose their economic incentive to ensure citizens prosper
+- Resource-rich countries often suffer a "resource curse" where governments which derive revenue directly from resources rather than citizen taxation become less accountable. If governments can generate massive revenue from taxing AI projects rather than citizens, heads of state may lose their economic incentive to ensure citizens prosper
 - Employees can exercise discretion in how they execute orders or even refuse and whistleblow on orders they perceive as illegitimate. Not with AI
 - A leader with exclusive access to a huge and highly skilled AI workforce could use AI to win elections with strong majorities, spread targeted disinformation, form valuable alliances, strategically dismantle checks and balances while maintaining plausible deniability, and exploit legal loopholes to concentrate power.
 - Coups often succeed by creating the impression of inevitable success, discouraging opposition. If military officials become reliant on a single AI system for strategic advice, then a person controlling that system (either through secret loyalties or through hacking) could instruct all copies to simultaneously advise military officials to support a coup
@@ -424,3 +426,134 @@ Model categories:
 - Sycophant: a person who acts obsequiously towards someone important in order to gain advantage.
 - Misaligned: high optimization pressure leading to model cheating towards its goals
 - Adverserial: model goals vs human goals leads to active deceptions
+
+## Week 3 discussion
+
+- exploitation vs irrelevance in economy; collective bargaining
+
+
+## [What might success look like?](https://bluedot.org/courses/agi-strategy/4/1)
+
+### 1: Government control over AGI
+
+- This strategy argues in favour of centralising control over compute and frontier AI model weights into a small number of Government-backed “AGI Projects”. 
+- These projects would either coordinate with each other to ensure that one doesn’t race ahead to build a dangerous AI system, and/or they’d keep each other in check via coercion, surveillance and strategic deterrence.
+- The project would need to be very secure, both from within (so the AI model itself does not escape, or get helped to escape via internal accomplices), and from external actors trying to steal the AI model weights.
+- Proponents don’t believe it’s possible to build an “aligned superintelligence”, at least in the short-term, and they don’t believe it’s possible to build defences against a “misaligned superintelligence”. 
+- Concerns about this strategy include that it could lead to an extreme concentration of power among the groups controlling the project(s), that it’s intractable and undesirable for Governments to take control over global AI compute supplies, and that it would fail to prevent other actors from building dangerous AI systems anyway due to algorithmic progress.
+
+### 2: Hand over control to aligned superintelligence
+
+- Building superintelligence is inevitable, and that only a superintelligent AI could steer us towards a utopian future and protect humanity from harm.
+- Aligned superintelligence should take advantage of its superior intellectual capabilities to gain a “decisive strategic advantage” over all other AI projects, in order to achieve some form of world domination, and to prevent anyone else from building a “misaligned” superintelligence.aligned superintelligence should take advantage of its superior intellectual capabilities to gain a “decisive strategic advantage” over all other AI projects, in order to achieve some form of world domination, and to prevent anyone else from building a “misaligned” superintelligence.
+
+### 3: Build defences and diffuse AGI
+
+- This strategy argues for everyone to have access to their own AGI and compute, but for tremendous resources to be invested into defensive technologies.
+- Proponents believe that the best future with AI is one where access and control over AI is widespread, and no single actor or group has too much power over this transformative technology.
+- this strategy envisions, protective technologies outpace destructive technologies
+- Critiques of this strategy focus on our inability to guarantee that we can or will build defences against new types of attacks.
+- Another critique of this strategy is that while an attacker only needs to find one civilisational vulnerability to exploit, the defenders must protect and fix all exploitable vulnerabilities.
+
+## [Urging an International AI Treaty: An Open Letter](https://aitreaty.org/)
+
+- **Global Compute Thresholds**: Internationally upheld thresholds on the amount of compute used to train any given AI model, with a procedure to lower these over time to account for algorithmic improvements.
+- **CERN for AI Safety**: A collaborative AI safety laboratory akin to CERN for pooling resources, expertise, and knowledge in the service of AI safety, and acting as a cooperative platform for safe AI development and safety research.
+- **Safe APIs**: Enable access to the APIs of safe AI models, with their capabilities held within estimated safe limits, in order to reduce incentives towards a dangerous race in AI development.
+- **Compliance Commission**: An international commission responsible for monitoring treaty compliance.
+
+## [The Project, Situational Awareness](https://situational-awareness.ai/the-project/)
+
+- I find it an insane proposition that the US government will let a random SF startup develop superintelligence. Imagine if we had developed atomic bombs by letting Uber just improvise.
+- While many don’t yet see the possibility of AGI, eventually a consensus will form. Some, like Szilard, saw the possibility of an atomic bomb much earlier than others. Their alarm was not well-received initially; the possibility of a bomb was dismissed as remote. But many scientists, initially skeptical, started realizing a bomb was possible as more and more empirical results came in. Once a majority of scientists came to believe we were on the cusp of a bomb, the government, in turn, saw the national security exigency as too great—and the Manhattan Project got underway.
+- As with Covid, and even the Manhattan Project, the government will be incredibly late and hamfisted. Einstein’s letter to the President in 1939 (drafted by Szilard), an Advisory Committee on Uranium was formed.
+- Simply put, it will become clear that the development of AGI will fall in a category more like nukes than the internet. Yes, of course it’ll be dual-use—but nuclear technology was dual-use too.
+- Most private companies have failed to take this seriously. But in any case, if we are to eventually face the full force of Chinese espionage, it’s probably impossible for a private company to get good enough security.
+- AI labs have not demonstrated the competence, trustworthiness, or seriousness necessary for what they themselves acknowledge they are building. 
+- One answer is regulation. That may be appropriate in worlds in which AI develops more slowly, but I fear that regulation simply won’t be up to the nature of the challenge of the intelligence explosion.
+- Another important free variable is the international coalition we can rally: both a tighter alliance of democracies for developing superintelligence, and a broader benefit-sharing offer made to the rest of the world. 
+  - The former might look like the Quebec Agreement: a secret pact between Churchill and Roosevelt to pool their resources to develop nuclear weapons, while not using them against each other or against others without mutual consent.
+  - The latter might look like Atoms for Peace, the IAEA, and the NPT. We should offer to share the peaceful benefits of superintelligence with a broader group of countries (including non-democracies), and commit to not offensively using superintelligence against them. In exchange, they refrain from pursuing their own superintelligence projects, make safety commitments on the deployment of AI systems, and accept restrictions on dual-use applications.
+
+
+## [What is AI alignment?](https://blog.bluedot.org/p/what-is-ai-alignment)
+
+- Outer alignment: Specify goals to an AI system correctly (reward misspecification, reward hacking, specification gaming, Goodharting)
+  - This refers to the challenge of specifying the reward function for an AI system in a way that accurately reflects our intentions.
+- Inner alignment: Get AI to follow these goals (Also known as solving: goal misgeneralization.)
+  - When training AI systems, we give them feedback (through gradient descent) based on our reward function. This results in AI systems that score highly on the reward function with the training data. However, this doesn’t mean they learn a policy that actually reflects the reward function we set.
+
+
+## [Introduction to AI Control](https://blog.bluedot.org/p/ai-control)
+
+- AI Control is a research agenda that aims to prevent misaligned AI systems from causing harm. It is different from AI alignment, which aims to ensure that systems act in the best interests of their users. Put simply, aligned AIs do not want to harm humans, whereas controlled AIs can’t harm humans, even if they want to.
+- f we can control AI models that are smarter than humans, we could leverage their capabilities to help us make safety progress, without worrying that these models will themselves cause catastrophe.
+-  If we have access to dangerous (but controlled) models, we might be able to observe takeover or escape attempts which provide compelling evidence of danger.
+-  Have a weaker (trusted) model monitor a strong (untrusted) model
+   -  In a study by safety non-profit Redwood Research which tested the effectiveness of various control measures, trusted monitoring prevented the submission of backdoored code in 62% of test runs, while trusted editing did so in 92% of runs.
+-  Have untrusted models monitor each other
+   - Redwood found that untrusted monitoring prevented the submission of backdoors in 79% of test runs.
+- Control is a temporary solution
+  - Control measures are designed to mitigate threats from models that are powerful enough to be transformatively useful, but not superintelligent. We should not expect that they will scale to superintelligent systems, which, almost by definition, will not be controllable.
+- we could fail to prevent untrusted models from colluding, or a model could sabotage control evaluations by pretending to be less capable than it really is (a well-documented phenomenon called “sandbagging“)
+
+
+## [A Playbook for Securing AI Model Weights](https://www.rand.org/pubs/research_briefs/RBA2849-1.html)
+
+- Security levels
+  - SL 1 can protect against amateur attempts: hobbyist hackers and untargeted "spray and pray" attacks.
+  - SL 2 can likely hinder opportunistic efforts by professionals: both individual professional hackers and groups executing untargeted or lower-priority attacks.
+  - SL 3 provides protection against cybercrime syndicates and insider threats. This includes world-renowned criminal hacker groups, well-resourced terrorist organizations, and disgruntled employees.
+  - SL 4 can foil standard operations by leading cyber capable institutions: for example, many leading state-sponsored groups and intelligence agencies.
+  - SL 5 can spoil the least common but the most dangerous attacks: top-priority operations conducted by the world's most capable nation-states.
+- Recommended Security Measures
+  - Hardening Interfaces for Weight Access
+    - In many leading labs, hundreds or thousands of individuals have full "read" access to frontier model weights.
+    - Use of predefined code reviewed and vetted by the security team. This is the most logical choice for inference interfaces (both internally and for public application programming interfaces [APIs]).
+    - More flexible access (including execution of custom code) on a server with rate-limited outputs, so that exfiltration of a significant portion of the weights would take too long to be practical.
+    - Direct work (without constraints on code or output rates) on an air-gapped isolated computer.
+  - Confidential Computing
+    - Even if model weights (and other sensitive data) are encrypted in transport and in storage, they are decrypted and vulnerable to theft during their use.
+    - Confidential computing is a technique for ensuring that data remain secure, including during use, by decrypting the data only within a hardware-based trusted execution environment (TEE) that will not run insecure code. 
+    - Model weights must be encrypted by a key generated within the TEE and stored within it. 
+    - The TEE will run only prespecified and audited signed code. That code decrypts the weights, runs inference, and outputs only the model response. The code cannot output weights, the weight encryption key, or any information directly outputted by the model.
+
+
+## [ d/acc: one year later ](https://vitalik.eth.limo/general/2025/01/05/dacc2.html)
+
+- The core idea of d/acc is simple: decentralized and democratic differential defensive acceleration. Build technologies that shift the offense/defense balance toward defense, and do so in a way that does not rely on handing over more power to centralized authorities.
+- contrast it with the philosophy that you get when you give up each of the three.
+  - Decentralized acceleration, but don't care about the "differential defensive" part. 
+    - in an offense-favoring environment, there's constant ongoing risk of either catastrophe, or someone positioning themselves as a protector and permanently establishing themselves at the top.
+  - Differential defensive acceleration, but don't care about "decentralized and democratic". 
+    - The risk of this approach is, of course, that the center is often itself the source of risk.
+  - Decentralized defense, but don't care about acceleration - basically, attempting to slow down technological progress, or economic degrowth. 
+    - First, on balance technology and economic growth have been massively good for humanity, and any delay to it imposes costs that are hard to overstate. Second, in a non-totalitarian world, not advancing is unstable: whoever "cheats" the most and finds plausibly-deniable ways to advance anyway will get ahead. 
+- There is a consistent pattern, across all domains, that the science, ideas and tools that can help us "survive" in one domain are closely related to the science, ideas and tools that can help us "thrive".
+- like most regulation, it was overfitted to the present-day situation. 
+- The primary targets for liability that have been considered so far are:
+  - Users - the people who use the AI
+  - Deployers - intermediaries who offer AI as a service for users
+  - Developers - the people who build the AI
+- users may be regular individuals without too much money, or even anonymous, leaving no one that could actually pay for a catastrophic harm
+- You need to incentivize someone in the pipeline who has the resources to take the appropriate level of care to do so, and deployers and developers are both easily available targets who still have a lot of influence over how safe or unsafe a model is.
+- Deployer liability seems reasonable. A commonly cited concern is that it would not work for open-source models, but this seems manageable, especially since there is a high chance that the most powerful models will be closed source anyway (and if they turn out to be open, then while deployer liability does not end up very useful, it also does not cause much harm).
+- put liability on owners or operators of any equipment that an AI takes over 
+- Ways to implement a "pause" have been explored, including concrete proposals like requiring registration and verifying location of hardware.
+- Both of these strategies (liability and the hardware pause button) have holes in them, and it's clear that they are only temporary stopgaps: if something becomes possible to do on a supercomputer at time T, it will likely be possible on a laptop at time T + 5 years. 
+- liability rules are a naturally d/acc-friendly style of regulation, because they can very efficiently motivate all parts of the world to adopt these defenses and take them seriously.
+- d/acc is an extension of the underlying values of crypto (decentralization, censorship resistance, open global economy and society) to other areas of technology.
+- Many crypto technologies can be used in d/acc subject areas: blockchains for building more robust and decentralized financial, governance and social media infrastructure, zero knowledge proofs for protecting privacy, etc.
+- One of my ongoing interests is coming up with better mechanisms to fund public goods: projects that are valuable to very large groups of people, but that do not have a naturally accessible business model
+
+
+## Week 4 discussion
+
+- https://arxiv.org/pdf/2601.10387
+- https://www.anthropic.com/research/persona-selection-model
+- https://www.youtube.com/watch?v=0pgEMWy70Qk
+- https://arxiv.org/pdf/2312.06942
+- https://venturebeat.com/ai/an-interview-with-the-most-prolific-jailbreaker-of-chatgpt-and-other-leading-llmshttps://venturebeat.com/ai/an-interview-with-the-most-prolific-jailbreaker-of-chatgpt-and-other-leading-llms
+- why are some layers of defense kept intact (nuclear) and some are not (covid)
+- why are AI lab leaders so nice to eachother?
+  - self interest to do so
