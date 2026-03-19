@@ -557,3 +557,44 @@ Model categories:
 - why are some layers of defense kept intact (nuclear) and some are not (covid)
 - why are AI lab leaders so nice to eachother?
   - self interest to do so
+
+## [ Do We Want an “IAEA for AI”? ](https://www.lawfaremedia.org/article/do-we-want-an--iaea-for-ai)
+
+- A “trust but verify” approach—similar to the approach used by President Reagan when negotiating nuclear deals with the Soviet Union—could help nations form agreements about advanced AI. 
+- Previous work has identified several functions of the IAEA that could be applied to AI: the establishment of safety standards, monitoring compliance and conducting inspections, maintaining an emergency response system, and facilitating information-sharing. 
+- While IAEA for AI proposals vary, they generally refer to an institution that would be responsible for ensuring safe AI development, setting and monitoring safety standards, and ensuring that the benefits of advanced AI are distributed globally.
+- It maintains an Incident and Emergency Center to help spread information quickly in the event of a nuclear crisis. A similar entity could help nations prepare for potential AI-related emergency scenarios by ensuring that crisis communication channels function adequately and that AI developers have emergency response protocols. 
+- Limitation: Scholars have pointed out that the international community required “consensus around the credibility and definition of a global challenge” in order to form the IAEA. 
+- International agreements are important diplomatic tools, but they do not completely replace the need for national buy-in. If a major world power changes its position on core issues, it can withdraw from agreements, as demonstrated by the first Trump Administration’s withdrawal from the JCPOA.
+- Third, it is unrealistic to expect compliance to remain constant.
+- Overall, international AI agreements—like all international agreements—will require national buy-in. Leaders of member nations need to be convinced that agreements concerning advanced AI are worth prioritizing as a global security challenge.
+International Network for Advanced AI Measurement, Evaluation and Science
+
+## [Governing dual-use technologies: Case studies of international security agreements & lessons for AI governance](https://arxiv.org/pdf/2409.02779)
+
+- Key findings
+  - Verification mechanisms are essential
+  - Governance structures attempt to distribute power based on geography and national capabilities
+  - Agreements balance transparency and privacy
+  - Agreements must adapt to technological change
+  - Agreements use benefit-sharing to incentivize participation
+
+![agi-strategy-2026-03-14-18-07-24.png](.images/agi-strategy-2026-03-14-18-07-24.png)
+
+
+## [Towards an international regulatory framework for AI safety: lessons from the IAEA’s nuclear safety regulations](https://www.nature.com/articles/s41599-024-03017-1)
+
+![agi-strategy-2026-03-14-18-51-45.png](.images/agi-strategy-2026-03-14-18-51-45.png)
+
+- Advantage: real oversight capacity, more consistent global rules, trust and legitimacy.
+- Critique: the nuclear analogy is imperfect, fit and feasibility, AI raises broader issues than the IAEA’s traditional mandate covers, states today often prefer adapting existing institutions or using looser, nonbinding arrangements rather than creating centralized new organizations
+
+- The rapid pace of AI development, the complexity and opacity of AI systems, and the potential for unintended consequences pose distinct challenges that may not be fully addressed by the IAEA’s existing regulatory structure.
+
+## Incentives for the US to be part of the IAEA
+
+- National security for: The IAEA helps the U.S. monitor and slow nuclear weapons proliferation.
+- Global influence: It gives the U.S. a seat in shaping international nuclear rules, inspections, safety, and security standards.
+- Civil nuclear benefits: A strong IAEA supports U.S. nuclear cooperation and trade with other countries.
+- Legitimacy: Working through the IAEA gives U.S. policy more international credibility.
+- Favorable deal: The U.S. benefits from IAEA oversight of others, while its own safeguards obligations are relatively limited.
