@@ -60,13 +60,13 @@
 
 - The goal is to evaluate past measures and derive recommendations for future crises.
 - Not only "What worked in the past?" but rather "Under which conditions does a measure work?".
-- Combines scientific uncertainty, public trust, and crisis governance.
-- Highly complex system, emotionally charged topic where institutional capacity, public trust, and party politics are important.
+- Highly complex + emotionally charged system.
+  - Institutional capacity, public trust, and party politics are important.
 - Everyone points to some evidence, but the conditions and assumptions matter enormously.
-- The bottleneck is comparison: without good data, every side can tell a plausible story.
+- Quantitative comparison is key: without good data, every side can tell a plausible story.
 - This points to better preparedness: 
   - pre-planned crisis response mechanisms, data infrastructure, policy evaluation, regulatory sandboxes.
-- Best recommendations are not only effective. They are simple, feasible, cheap enough, and politically legible.
+- Best recommendations are not only effective. They are simple, feasible, cheap, and politically legible.
 
 ### Advice: Tech <> Politics
 
@@ -78,8 +78,7 @@
 - Technical people often ask: “Why does government not act?”
 - A more useful question is: “What problem is government already trying to solve, and how can my proposal help?”
 - Good policy communication makes the action obvious, feasible, and aligned with existing priorities.
-- For AI safety, that means connecting safety to resilience, competitiveness, and public trust is a stronger argument than purely abstract risk arguments.
-
+- For AI safety, that means connecting safety to resilience, competitiveness, and public trust is a stronger than purely abstract risk arguments.
 
 ### Next steps for me
 
